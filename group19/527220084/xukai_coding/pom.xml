@@ -37,7 +37,7 @@
         <autoconfig-plugin-version>1.2-GUAHAO</autoconfig-plugin-version>
         <greenline.common.util>1.1.1</greenline.common.util>
         <kaptcha.version>2.3.2</kaptcha.version>
-        <jackson.version>2.4.4</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <commons.codec>1.9</commons.codec>
         <v.joda.time.version>2.9.6</v.joda.time.version>
         <project.ud.jdk>1.8</project.ud.jdk>
