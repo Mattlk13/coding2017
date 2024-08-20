@@ -11,7 +11,7 @@
 
     <properties>
         <commons-digester.version>2.1</commons-digester.version>
-        <fastjson.version>1.2.24</fastjson.version>
+        <fastjson.version>1.2.25.sec10</fastjson.version>
     </properties>
 
     <dependencies>
